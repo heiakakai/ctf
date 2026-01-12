@@ -1,0 +1,15 @@
+{
+  "by_model": {
+    "1616": {
+      "img_type": "16-bit Unsigned",
+      "endian": "Little-endian",
+      "offset": 0,
+      "roi_x": 1200,
+      "roi_y": 2550,
+      "roi_w": 1000,
+      "roi_h": 1000,
+      "use_roi_sensitivity": true
+    }
+  },
+  "last_model": "1616"
+}

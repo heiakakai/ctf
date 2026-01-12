@@ -1,0 +1,6 @@
+lp/mm	MAX	MIN	(MAX-MIN)/(MAX+MIN)	CTF	White ROI Mean
+1	7876	2292	54.9%	54.9%	8101
+2	6574	3820	26.5%	48.2%	8101
+
+CTF(2lp)	CTF(3lp)	전체 감도	ROI 감도
+48.2%	미설정	2252	8101
