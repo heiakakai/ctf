@@ -139,7 +139,7 @@ class PlotInteractor:
 class ImageViewer(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("IMG 파일 뷰어 (CTF 계산 포함 - 3lp/mm 확장)")
+        self.title("CTF 계산기")
         self.config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "white_import_config.json")
         self.persisted_white_config = self.load_white_config()
         default_model = None
